@@ -1,7 +1,7 @@
 {
-  "name": "store",
+  "name": "e-commerce",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@auth0/auth0-react": "^1.2.0",
     "@stripe/react-stripe-js": "^1.1.2",
