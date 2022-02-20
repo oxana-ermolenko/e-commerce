@@ -44,7 +44,6 @@ const SingleProductPage = () => {
   if (error) {
     return <Error />;
   }
-
   const {
     name,
     price,
